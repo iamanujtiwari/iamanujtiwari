@@ -8,10 +8,7 @@
 - 🌱 I’m currently learning **python numpay pandas matplotlib**
 
 - 🤝 I’m looking for help with **test**
-- <a href="https://github.com/iamanujtiwari?tab=repositories" target="_blank" rel="noopener noreferrer">
-👨‍💻 All of my projects are available at
-</a>
-
+ -👨‍💻 All of my projects are available at https://github.com/iamanujtiwari?tab=repositories" target="_blank" 
 
 - 📫 How to reach me **anujtiwari000@outlook.com**
 
