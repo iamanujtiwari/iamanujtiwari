@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **test**
 
-- 👨‍💻 All of my projects are available at [https://iamanujtiwari.github.io/new-website/](https://iamanujtiwari.github.io/new-website/)
+- 👨‍💻 All of my projects are available at https://github.com/iamanujtiwari?tab=repositories
 
 - 📫 How to reach me **anujtiwari000@outlook.com**
 
